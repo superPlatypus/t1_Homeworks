@@ -1,10 +1,10 @@
-package ru.platypus.service;
+package ru.platypus.hw_1.service;
 
 import org.springframework.stereotype.Service;
-import ru.platypus.annotation.LogBeforeMethod;
-import ru.platypus.annotation.LogException;
-import ru.platypus.annotation.LogExecutionTime;
-import ru.platypus.annotation.LogResult;
+import ru.platypus.hw_1.annotation.LogBeforeMethod;
+import ru.platypus.hw_1.annotation.LogException;
+import ru.platypus.hw_1.annotation.LogExecutionTime;
+import ru.platypus.hw_1.annotation.LogResult;
 
 import java.util.ArrayList;
 import java.util.List;
