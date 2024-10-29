@@ -1,10 +1,10 @@
-package ru.platypus;
+package ru.platypus.hw_1;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.EnableAspectJAutoProxy;
-import ru.platypus.service.UserService;
+import ru.platypus.hw_1.service.UserService;
 
 @EnableAspectJAutoProxy
 @ComponentScan
